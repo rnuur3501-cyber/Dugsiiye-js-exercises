@@ -1,0 +1,11 @@
+{
+    "name":"Rahma",
+    "age":19,
+    "uni":"jamhuriya",
+    "class":"CA246",
+    "favsubjects": [
+        {"sub1":"javascript", "period":2, "time":"9am" }, 
+        {"sub2":"multmedia", "period":1, "time":"7am" }
+    ]
+
+}
